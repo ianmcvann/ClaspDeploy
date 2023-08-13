@@ -2,7 +2,7 @@
 
 ## Features
 
-This extension is used to deploy a Google Apps Script project to Google Drive using the [clasp](https://www.npmjs.com/package/@google/clasp) command line tool and open the associated sheet.
+This VS Code extension is used to deploy a Google Apps Script project to Google Drive using the [clasp](https://www.npmjs.com/package/@google/clasp) command line tool and open the associated sheet.
 
 To use, simply run the `Clasp Deploy` command from the command palette. Ensure that the `clasp-deploy.srcDir` and `clasp-deploy.developmentSheetURL` settings are set correctly.
 
